@@ -1,0 +1,32 @@
+#button2{
+  font-family: "Lucida Console", Times, serif;
+  background-color: white; 
+  color: black; 
+  border: none #555555;
+  padding: 10px 25px;
+}
+
+#button2:hover {
+  background-color: yellow;
+  color: black;
+}
+#button3{
+  font-family: "Lucida Console", Times, serif;
+  background-color: white; 
+  color: black; 
+  border: none #555555;
+  padding: 10px 25px;
+}
+
+#button3:hover {
+  background-color: yellow;
+  color: black;
+}
+div.button {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+	

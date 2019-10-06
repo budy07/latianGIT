@@ -1,0 +1,17 @@
+h1 {
+  font-weight: 800;
+  color: yellow;
+  background: black;
+}
+p {
+  color: black;
+}
+#website-title {
+  padding: 10px;
+}
+.menu {
+  margin: 5em;
+}
+button:hover {
+  background-color: #FFECB3;
+}
